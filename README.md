@@ -68,6 +68,10 @@ chmod +x fuxi_manage.sh
 
 ### [API Document](docs/fuxi_api_doc_chinese.md)
 
+## Origin blog
+
+https://cloud.tencent.com/developer/article/1170074
+
 
 ## Issues
 
